@@ -353,6 +353,8 @@ def printer():
     print(sequenz_printer)
     print("-----------------      -----------------")
     print()
+    print()
+    input("Enter zum beenden drücken!")
     
 
 
